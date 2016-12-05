@@ -2,7 +2,7 @@ class ReviewsController < ApplicationController
   before_action :load_product
 
   def show
-    @review = Review.find(params[:id])
+    # @review = Review.find(params[:id])
   end
 
   def create
@@ -25,7 +25,7 @@ class ReviewsController < ApplicationController
   end
 
   def destroy
-    @review = Review.find(params[:id])
+    # @review = Review.find(params[:id])
     @review.destroy
   end
 

@@ -1,4 +1,4 @@
-<h1>Rainforest Rails App</h1>
+#Rainforest Rails App
 
 First Rails App created at Bitmaker. It's features include:
 
@@ -7,7 +7,7 @@ First Rails App created at Bitmaker. It's features include:
 3. Users can Create, Edit and Delete reviews for products.
 4. Reviews are viewable on a product's page.
 
-<h1>Command Line Setup:</h1>
+#Command Line Setup:
 1. "bundle install"
 2. "rails s"
 3. Open a web browser

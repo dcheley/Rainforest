@@ -1,28 +1,14 @@
-== README
+#Rainforest Rails App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+First Rails App created at Bitmaker. It's features include:
 
-Things you may want to cover:
+1. User Sign Up & Login.
+2. Users can Create, View, Edit and Delete products.
+3. Users can Create, Edit and Delete reviews for products.
+4. Reviews are viewable on a product's page.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+#Command Line Setup:
+1. "bundle install"
+2. "rails s"
+3. Open a web browser
+4. Enter "localhost:3000" into the URL address bar.

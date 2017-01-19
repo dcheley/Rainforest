@@ -10,5 +10,6 @@ First Rails App created at Bitmaker. It's features include:
 #Command Line Setup:
 1. "bundle install"
 2. "rails s"
-3. Open a web browser
-4. Enter "localhost:3000" into the URL address bar.
+3. "rails db:setup"
+4. Open a web browser
+5. Enter "localhost:3000" into the URL address bar.

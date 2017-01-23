@@ -12,4 +12,4 @@ First Rails App created at Bitmaker. It's features include:
 2. "rails s"
 3. "rails db:setup"
 4. Open a web browser
-5. Enter "localhost:3000" into the URL address bar.
+5. Enter `http://localhost:3000` into the URL view.
